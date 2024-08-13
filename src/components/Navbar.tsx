@@ -5,6 +5,7 @@ import SearchBox from "./SearchBox";
 type Props = {};
 
 const Navbar = (props: Props) => {
+  
   return (
     <nav className="shadow-sm sticky top-0 left-0 z-50">
       <div className="h-[80px] w-full flex justify-between items-center max-w-7xl px-3 mx-auto">
